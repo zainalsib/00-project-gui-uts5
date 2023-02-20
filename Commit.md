@@ -2,4 +2,4 @@
 
 - Melakukan Commit Pertama
 - Melakukan Commit Kedua
-- Melakukan Commit Ketiga
+- Menambahkan Tentang Code Reviews
